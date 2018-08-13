@@ -1,0 +1,9 @@
+0	step	q
+1	type	q
+2	amount	q
+3	oldBalanceOrig	q
+4	newBalanceOrig	q
+5	oldBalanceDest	q
+6	newBalanceDest	q
+7	errorBalanceOrig	q
+8	errorBalanceDest	q
